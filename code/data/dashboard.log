@@ -1,0 +1,13 @@
+2025-04-14 09:43:50,199 - dashboard_generator - INFO - Initialized dashboard generator with analysis data from /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/output
+2025-04-14 09:43:50,200 - dashboard_generator - INFO - Starting dashboard generation pipeline
+2025-04-14 09:43:50,200 - dashboard_generator - INFO - Found latest analysis summary file: /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/output/analysis_summary_20250414_094306.json
+2025-04-14 09:43:50,200 - dashboard_generator - INFO - Loaded analysis data from /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/output/analysis_summary_20250414_094306.json
+2025-04-14 09:43:50,200 - dashboard_generator - INFO - Creating overview dashboard
+2025-04-14 09:44:02,730 - dashboard_generator - INFO - Saved overview dashboard to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/dashboard/indeed_job_analysis_dashboard.png
+2025-04-14 09:44:02,852 - dashboard_generator - INFO - Creating skills dashboard
+2025-04-14 09:44:17,405 - dashboard_generator - INFO - Saved skills dashboard to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/dashboard/indeed_job_skills_dashboard.png
+2025-04-14 09:44:17,929 - dashboard_generator - INFO - Creating salary dashboard
+2025-04-14 09:44:24,365 - dashboard_generator - INFO - Saved salary dashboard to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/dashboard/indeed_job_salary_dashboard.png
+2025-04-14 09:44:24,404 - dashboard_generator - INFO - Creating HTML dashboard
+2025-04-14 09:44:24,405 - dashboard_generator - INFO - Saved HTML dashboard to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/dashboard/indeed_job_analysis_dashboard.html
+2025-04-14 09:44:24,405 - dashboard_generator - INFO - Dashboard generation pipeline completed successfully

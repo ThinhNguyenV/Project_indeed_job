@@ -1,0 +1,380 @@
+{
+  "timestamp": "20250414_094306",
+  "analyses": {
+    "job_titles": {
+      "title_counts": [
+        {
+          "title": "Data Scientist",
+          "count": 59
+        },
+        {
+          "title": "Data Analyst",
+          "count": 56
+        },
+        {
+          "title": "Business Analyst",
+          "count": 50
+        },
+        {
+          "title": "Business Intelligence Analyst",
+          "count": 35
+        }
+      ],
+      "category_counts": [
+        {
+          "category": "Data Scientist",
+          "count": 59
+        },
+        {
+          "category": "Data Analyst",
+          "count": 56
+        },
+        {
+          "category": "Business Analyst",
+          "count": 50
+        },
+        {
+          "category": "Business Intelligence Analyst",
+          "count": 35
+        }
+      ],
+      "plot_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/job_title_distribution.png"
+    },
+    "locations": {
+      "location_counts": [
+        {
+          "location": "San Francisco, CA",
+          "count": 39
+        },
+        {
+          "location": "New York, NY",
+          "count": 39
+        },
+        {
+          "location": "Austin, TX",
+          "count": 38
+        },
+        {
+          "location": "Remote",
+          "count": 35
+        },
+        {
+          "location": "Seattle, WA",
+          "count": 31
+        },
+        {
+          "location": "Chicago, IL",
+          "count": 18
+        }
+      ],
+      "remote_counts": [
+        {
+          "is_remote": "On-site",
+          "count": 165
+        },
+        {
+          "is_remote": "Remote",
+          "count": 35
+        }
+      ],
+      "locations_plot_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/job_locations_distribution.png",
+      "remote_plot_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/remote_vs_onsite_distribution.png"
+    },
+    "salaries": {
+      "salary_stats": {
+        "mean": 66695.17730496454,
+        "median": 70000.0,
+        "min": 60.0,
+        "max": 150000.0,
+        "std": 57395.71675909071
+      },
+      "salary_by_title": [
+        {
+          "title_category": "Business Analyst",
+          "mean": 62598.28571428572,
+          "median": 70000.0,
+          "count": 35
+        },
+        {
+          "title_category": "Business Intelligence Analyst",
+          "mean": 60409.62962962963,
+          "median": 50000.0,
+          "count": 27
+        },
+        {
+          "title_category": "Data Analyst",
+          "mean": 67831.21951219512,
+          "median": 50000.0,
+          "count": 41
+        },
+        {
+          "title_category": "Data Scientist",
+          "mean": 73708.94736842105,
+          "median": 90000.0,
+          "count": 38
+        }
+      ],
+      "salary_by_location": [
+        {
+          "location": "Austin, TX",
+          "mean": 71231.2,
+          "median": 70000.0,
+          "count": 25
+        },
+        {
+          "location": "Chicago, IL",
+          "mean": 34050.0,
+          "median": 100.0,
+          "count": 10
+        },
+        {
+          "location": "New York, NY",
+          "mean": 70770.37037037036,
+          "median": 70000.0,
+          "count": 27
+        },
+        {
+          "location": "Remote",
+          "mean": 73483.07692307692,
+          "median": 60000.0,
+          "count": 26
+        },
+        {
+          "location": "San Francisco, CA",
+          "mean": 52846.25,
+          "median": 50000.0,
+          "count": 32
+        },
+        {
+          "location": "Seattle, WA",
+          "mean": 84300.0,
+          "median": 90000.0,
+          "count": 21
+        }
+      ],
+      "salary_dist_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/salary_distribution.png",
+      "salary_by_title_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/salary_by_job_title.png",
+      "salary_by_location_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/salary_by_location.png",
+      "salary_by_exp_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/salary_by_experience.png"
+    },
+    "skills": {
+      "top_skills": [
+        {
+          "skill": "Machine Learning",
+          "count": 105
+        },
+        {
+          "skill": "Azure",
+          "count": 69
+        },
+        {
+          "skill": "Data Mining",
+          "count": 67
+        },
+        {
+          "skill": "Power BI",
+          "count": 66
+        },
+        {
+          "skill": "Data Visualization",
+          "count": 63
+        },
+        {
+          "skill": "SQL",
+          "count": 63
+        },
+        {
+          "skill": "Tableau",
+          "count": 62
+        },
+        {
+          "skill": "Statistical Analysis",
+          "count": 61
+        },
+        {
+          "skill": "SPSS",
+          "count": 60
+        },
+        {
+          "skill": "Data Modeling",
+          "count": 60
+        },
+        {
+          "skill": "Hadoop",
+          "count": 59
+        },
+        {
+          "skill": "Excel",
+          "count": 59
+        },
+        {
+          "skill": "A/B Testing",
+          "count": 59
+        },
+        {
+          "skill": "Big Data",
+          "count": 58
+        },
+        {
+          "skill": "SAS",
+          "count": 56
+        },
+        {
+          "skill": "ETL",
+          "count": 56
+        },
+        {
+          "skill": "Python",
+          "count": 56
+        },
+        {
+          "skill": "R",
+          "count": 55
+        },
+        {
+          "skill": "Spark",
+          "count": 55
+        },
+        {
+          "skill": "AWS",
+          "count": 54
+        }
+      ],
+      "skill_counts": [
+        {
+          "skill": "Machine Learning",
+          "count": 105
+        },
+        {
+          "skill": "Azure",
+          "count": 69
+        },
+        {
+          "skill": "Data Mining",
+          "count": 67
+        },
+        {
+          "skill": "Power BI",
+          "count": 66
+        },
+        {
+          "skill": "Data Visualization",
+          "count": 63
+        },
+        {
+          "skill": "SQL",
+          "count": 63
+        },
+        {
+          "skill": "Tableau",
+          "count": 62
+        },
+        {
+          "skill": "Statistical Analysis",
+          "count": 61
+        },
+        {
+          "skill": "SPSS",
+          "count": 60
+        },
+        {
+          "skill": "Data Modeling",
+          "count": 60
+        },
+        {
+          "skill": "Hadoop",
+          "count": 59
+        },
+        {
+          "skill": "Excel",
+          "count": 59
+        },
+        {
+          "skill": "A/B Testing",
+          "count": 59
+        },
+        {
+          "skill": "Big Data",
+          "count": 58
+        },
+        {
+          "skill": "SAS",
+          "count": 56
+        },
+        {
+          "skill": "ETL",
+          "count": 56
+        },
+        {
+          "skill": "Python",
+          "count": 56
+        },
+        {
+          "skill": "R",
+          "count": 55
+        },
+        {
+          "skill": "Spark",
+          "count": 55
+        },
+        {
+          "skill": "AWS",
+          "count": 54
+        },
+        {
+          "skill": "Data Warehousing",
+          "count": 53
+        },
+        {
+          "skill": "Google Cloud",
+          "count": 51
+        }
+      ],
+      "top_skills_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/top_skills.png",
+      "co_occurrence_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/skill_co_occurrence.png"
+    },
+    "education": {
+      "education_counts": [
+        {
+          "education": "Master's degree",
+          "count": 116
+        },
+        {
+          "education": "Bachelor's degree",
+          "count": 84
+        }
+      ],
+      "education_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/education_requirements.png",
+      "edu_by_title_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/education_by_job_title.png"
+    },
+    "job_types": {
+      "job_type_counts": [
+        {
+          "job_type": "Part-time",
+          "count": 44
+        },
+        {
+          "job_type": "Remote",
+          "count": 36
+        },
+        {
+          "job_type": "Internship",
+          "count": 33
+        },
+        {
+          "job_type": "Temporary",
+          "count": 32
+        },
+        {
+          "job_type": "Full-time",
+          "count": 28
+        },
+        {
+          "job_type": "Contract",
+          "count": 27
+        }
+      ],
+      "job_type_path": "/Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/job_types.png"
+    }
+  }
+}

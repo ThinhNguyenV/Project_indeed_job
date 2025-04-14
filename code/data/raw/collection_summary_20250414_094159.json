@@ -1,0 +1,22 @@
+{
+  "timestamp": "20250414_094159",
+  "job_titles": [
+    "Data Analyst",
+    "Business Analyst",
+    "Data Scientist",
+    "Business Intelligence Analyst"
+  ],
+  "locations": [
+    "Remote",
+    "New York, NY",
+    "San Francisco, CA",
+    "Seattle, WA",
+    "Austin, TX",
+    "Chicago, IL"
+  ],
+  "search_results_count": 200,
+  "job_details_count": 200,
+  "search_results_file": "indeed_search_results_20250414_094159.json",
+  "job_details_file": "indeed_job_details_20250414_094159.json",
+  "data_type": "mock"
+}

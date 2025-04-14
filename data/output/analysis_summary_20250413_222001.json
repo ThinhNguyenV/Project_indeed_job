@@ -1,0 +1,380 @@
+{
+  "timestamp": "20250413_222001",
+  "analyses": {
+    "job_titles": {
+      "title_counts": [
+        {
+          "title": "Data Scientist",
+          "count": 52
+        },
+        {
+          "title": "Business Analyst",
+          "count": 51
+        },
+        {
+          "title": "Data Analyst",
+          "count": 50
+        },
+        {
+          "title": "Business Intelligence Analyst",
+          "count": 47
+        }
+      ],
+      "category_counts": [
+        {
+          "category": "Data Scientist",
+          "count": 52
+        },
+        {
+          "category": "Business Analyst",
+          "count": 51
+        },
+        {
+          "category": "Data Analyst",
+          "count": 50
+        },
+        {
+          "category": "Business Intelligence Analyst",
+          "count": 47
+        }
+      ],
+      "plot_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/job_title_distribution.png"
+    },
+    "locations": {
+      "location_counts": [
+        {
+          "location": "Chicago, IL",
+          "count": 38
+        },
+        {
+          "location": "San Francisco, CA",
+          "count": 37
+        },
+        {
+          "location": "Austin, TX",
+          "count": 33
+        },
+        {
+          "location": "Remote",
+          "count": 32
+        },
+        {
+          "location": "Seattle, WA",
+          "count": 31
+        },
+        {
+          "location": "New York, NY",
+          "count": 29
+        }
+      ],
+      "remote_counts": [
+        {
+          "is_remote": "On-site",
+          "count": 168
+        },
+        {
+          "is_remote": "Remote",
+          "count": 32
+        }
+      ],
+      "locations_plot_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/job_locations_distribution.png",
+      "remote_plot_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/remote_vs_onsite_distribution.png"
+    },
+    "salaries": {
+      "salary_stats": {
+        "mean": 77581.5,
+        "median": 90000.0,
+        "min": 60.0,
+        "max": 150000.0,
+        "std": 52764.93396997049
+      },
+      "salary_by_title": [
+        {
+          "title_category": "Business Analyst",
+          "mean": 77795.55555555556,
+          "median": 70000.0,
+          "count": 45
+        },
+        {
+          "title_category": "Business Intelligence Analyst",
+          "mean": 82698.0487804878,
+          "median": 90000.0,
+          "count": 41
+        },
+        {
+          "title_category": "Data Analyst",
+          "mean": 72653.15789473684,
+          "median": 70000.0,
+          "count": 38
+        },
+        {
+          "title_category": "Data Scientist",
+          "mean": 76688.88888888889,
+          "median": 90000.0,
+          "count": 36
+        }
+      ],
+      "salary_by_location": [
+        {
+          "location": "Austin, TX",
+          "mean": 73126.20689655172,
+          "median": 90000.0,
+          "count": 29
+        },
+        {
+          "location": "Chicago, IL",
+          "mean": 85871.72413793103,
+          "median": 90000.0,
+          "count": 29
+        },
+        {
+          "location": "New York, NY",
+          "mean": 90014.28571428571,
+          "median": 110000.0,
+          "count": 21
+        },
+        {
+          "location": "Remote",
+          "mean": 63483.07692307692,
+          "median": 70000.0,
+          "count": 26
+        },
+        {
+          "location": "San Francisco, CA",
+          "mean": 86581.25,
+          "median": 110000.0,
+          "count": 32
+        },
+        {
+          "location": "Seattle, WA",
+          "mean": 64810.434782608696,
+          "median": 70000.0,
+          "count": 23
+        }
+      ],
+      "salary_dist_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/salary_distribution.png",
+      "salary_by_title_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/salary_by_job_title.png",
+      "salary_by_location_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/salary_by_location.png",
+      "salary_by_exp_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/salary_by_experience.png"
+    },
+    "skills": {
+      "top_skills": [
+        {
+          "skill": "Machine Learning",
+          "count": 100
+        },
+        {
+          "skill": "Azure",
+          "count": 73
+        },
+        {
+          "skill": "Hadoop",
+          "count": 70
+        },
+        {
+          "skill": "Power BI",
+          "count": 69
+        },
+        {
+          "skill": "Tableau",
+          "count": 69
+        },
+        {
+          "skill": "SAS",
+          "count": 67
+        },
+        {
+          "skill": "A/B Testing",
+          "count": 66
+        },
+        {
+          "skill": "ETL",
+          "count": 66
+        },
+        {
+          "skill": "Python",
+          "count": 64
+        },
+        {
+          "skill": "R",
+          "count": 64
+        },
+        {
+          "skill": "Statistical Analysis",
+          "count": 64
+        },
+        {
+          "skill": "SQL",
+          "count": 63
+        },
+        {
+          "skill": "Data Mining",
+          "count": 63
+        },
+        {
+          "skill": "AWS",
+          "count": 59
+        },
+        {
+          "skill": "Data Modeling",
+          "count": 59
+        },
+        {
+          "skill": "Excel",
+          "count": 58
+        },
+        {
+          "skill": "Google Cloud",
+          "count": 57
+        },
+        {
+          "skill": "Data Visualization",
+          "count": 56
+        },
+        {
+          "skill": "Big Data",
+          "count": 49
+        },
+        {
+          "skill": "Spark",
+          "count": 49
+        }
+      ],
+      "skill_counts": [
+        {
+          "skill": "Machine Learning",
+          "count": 100
+        },
+        {
+          "skill": "Azure",
+          "count": 73
+        },
+        {
+          "skill": "Hadoop",
+          "count": 70
+        },
+        {
+          "skill": "Power BI",
+          "count": 69
+        },
+        {
+          "skill": "Tableau",
+          "count": 69
+        },
+        {
+          "skill": "SAS",
+          "count": 67
+        },
+        {
+          "skill": "A/B Testing",
+          "count": 66
+        },
+        {
+          "skill": "ETL",
+          "count": 66
+        },
+        {
+          "skill": "Python",
+          "count": 64
+        },
+        {
+          "skill": "R",
+          "count": 64
+        },
+        {
+          "skill": "Statistical Analysis",
+          "count": 64
+        },
+        {
+          "skill": "SQL",
+          "count": 63
+        },
+        {
+          "skill": "Data Mining",
+          "count": 63
+        },
+        {
+          "skill": "AWS",
+          "count": 59
+        },
+        {
+          "skill": "Data Modeling",
+          "count": 59
+        },
+        {
+          "skill": "Excel",
+          "count": 58
+        },
+        {
+          "skill": "Google Cloud",
+          "count": 57
+        },
+        {
+          "skill": "Data Visualization",
+          "count": 56
+        },
+        {
+          "skill": "Big Data",
+          "count": 49
+        },
+        {
+          "skill": "Spark",
+          "count": 49
+        },
+        {
+          "skill": "Data Warehousing",
+          "count": 47
+        },
+        {
+          "skill": "SPSS",
+          "count": 46
+        }
+      ],
+      "top_skills_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/top_skills.png",
+      "co_occurrence_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/skill_co_occurrence.png"
+    },
+    "education": {
+      "education_counts": [
+        {
+          "education": "Master's degree",
+          "count": 116
+        },
+        {
+          "education": "Bachelor's degree",
+          "count": 84
+        }
+      ],
+      "education_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/education_requirements.png",
+      "edu_by_title_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/education_by_job_title.png"
+    },
+    "job_types": {
+      "job_type_counts": [
+        {
+          "job_type": "Full-time",
+          "count": 37
+        },
+        {
+          "job_type": "Internship",
+          "count": 37
+        },
+        {
+          "job_type": "Remote",
+          "count": 36
+        },
+        {
+          "job_type": "Temporary",
+          "count": 31
+        },
+        {
+          "job_type": "Contract",
+          "count": 30
+        },
+        {
+          "job_type": "Part-time",
+          "count": 29
+        }
+      ],
+      "job_type_path": "/home/ubuntu/indeed_job_analysis/data/visualizations/job_types.png"
+    }
+  }
+}

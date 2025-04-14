@@ -1,0 +1,22 @@
+2025-04-14 09:42:59,768 - data_analysis - INFO - Initialized job data analyzer with processed data from /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/processed
+2025-04-14 09:42:59,768 - data_analysis - INFO - Starting job data analysis pipeline
+2025-04-14 09:42:59,768 - data_analysis - INFO - Found latest processed data file: /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/processed/processed_indeed_jobs_20250414_094245.json
+2025-04-14 09:42:59,791 - data_analysis - INFO - Loaded 200 job listings from /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/processed/processed_indeed_jobs_20250414_094245.json
+2025-04-14 09:42:59,792 - data_analysis - INFO - Analyzing job titles distribution
+2025-04-14 09:43:00,354 - data_analysis - INFO - Saved job title distribution plot to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/job_title_distribution.png
+2025-04-14 09:43:00,355 - data_analysis - INFO - Analyzing job locations distribution
+2025-04-14 09:43:00,933 - data_analysis - INFO - Saved job locations distribution plots to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations
+2025-04-14 09:43:00,934 - data_analysis - INFO - Analyzing salary distributions and trends
+2025-04-14 09:43:02,336 - data_analysis - INFO - Saved salary analysis plots to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations
+2025-04-14 09:43:02,337 - data_analysis - INFO - Analyzing skills mentioned in job listings
+2025-04-14 09:43:04,760 - data_analysis - INFO - Saved skills by job title plots to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations
+2025-04-14 09:43:05,594 - data_analysis - INFO - Saved skill co-occurrence matrix to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/skill_co_occurrence.png
+2025-04-14 09:43:05,595 - data_analysis - INFO - Saved skills analysis plots to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations
+2025-04-14 09:43:05,596 - data_analysis - INFO - Analyzing education requirements in job listings
+2025-04-14 09:43:06,354 - data_analysis - INFO - Saved education by job title plot to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/education_by_job_title.png
+2025-04-14 09:43:06,355 - data_analysis - INFO - Saved education requirements plot to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/education_requirements.png
+2025-04-14 09:43:06,355 - data_analysis - INFO - Analyzing job types in listings
+2025-04-14 09:43:06,630 - data_analysis - INFO - Saved job types plot to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/visualizations/job_types.png
+2025-04-14 09:43:06,631 - data_analysis - INFO - Generating summary report
+2025-04-14 09:43:06,632 - data_analysis - INFO - Saved analysis summary report to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/output/analysis_summary_20250414_094306.json
+2025-04-14 09:43:06,633 - data_analysis - INFO - Job data analysis pipeline completed successfully

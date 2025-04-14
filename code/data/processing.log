@@ -1,0 +1,16 @@
+2025-04-14 09:42:45,443 - data_processor - INFO - Initialized job data processor with raw data from /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/raw
+2025-04-14 09:42:45,444 - data_processor - INFO - Starting job data processing pipeline
+2025-04-14 09:42:45,444 - data_processor - INFO - Found latest data files from 20250414_094159
+2025-04-14 09:42:45,448 - data_processor - INFO - Loaded 200 search results from /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/raw/indeed_search_results_20250414_094159.json
+2025-04-14 09:42:45,453 - data_processor - INFO - Loaded 200 job details from /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/raw/indeed_job_details_20250414_094159.json
+2025-04-14 09:42:45,453 - data_processor - INFO - Cleaning search results data
+2025-04-14 09:42:45,463 - data_processor - INFO - Cleaned 200 search results
+2025-04-14 09:42:45,463 - data_processor - INFO - Cleaning job details data
+2025-04-14 09:42:45,473 - data_processor - INFO - Cleaned 200 job details
+2025-04-14 09:42:45,473 - data_processor - INFO - Extracting skills from job descriptions
+2025-04-14 09:42:45,859 - data_processor - INFO - Extracted skills from 200 job descriptions
+2025-04-14 09:42:45,859 - data_processor - INFO - Merging and performing final data processing
+2025-04-14 09:42:45,888 - data_processor - INFO - Created final processed dataset with 200 rows and 104 columns
+2025-04-14 09:42:45,912 - data_processor - INFO - Saved processed data to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/processed/processed_indeed_jobs_20250414_094245.csv
+2025-04-14 09:42:45,921 - data_processor - INFO - Saved processed data as JSON to /Users/thinhnguyenvan/Documents/VSCode/Python/indeed_job_analysis_project/code/data/processed/processed_indeed_jobs_20250414_094245.json
+2025-04-14 09:42:45,921 - data_processor - INFO - Job data processing pipeline completed successfully
