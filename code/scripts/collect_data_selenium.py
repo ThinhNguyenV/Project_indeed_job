@@ -4,7 +4,7 @@ Script to run the Indeed job scraper using Selenium and collect job data.
 This script executes the Selenium-based Indeed scraper to collect job listings
 while bypassing anti-scraping measures.
 
-Author: Manus
+Author: Thinh Nguyen Van
 Date: April 14, 2025
 """
 

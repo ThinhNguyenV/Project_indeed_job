@@ -4,7 +4,7 @@ Indeed Job Scraper using Selenium
 This script scrapes job listings from Indeed.com using Selenium to bypass anti-scraping measures.
 It simulates real user behavior and extracts job data from the pages.
 
-Author: Manus
+Author: Thinh Nguyen Van
 Date: April 14, 2025
 """
 

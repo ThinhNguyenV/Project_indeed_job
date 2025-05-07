@@ -4,7 +4,7 @@ Mock data generator for Indeed job listings
 This script generates mock job data for analysis when web scraping
 encounters challenges with anti-scraping measures.
 
-Author: Manus
+Author: Thinh Nguyen Van
 Date: April 14, 2025
 """
 

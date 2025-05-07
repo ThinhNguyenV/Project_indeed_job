@@ -4,7 +4,7 @@ Indeed Job Scraper
 This script scrapes job listings from Indeed.com based on specified search parameters.
 It extracts job data from embedded JavaScript variables in the HTML using regex patterns.
 
-Author: Manus
+Author: Thinh Nguyen Van
 Date: April 14, 2025
 """
 

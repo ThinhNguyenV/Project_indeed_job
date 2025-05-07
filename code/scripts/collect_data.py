@@ -4,7 +4,7 @@ Script to run the Indeed job scraper and collect job data.
 This script executes the Indeed scraper to collect job listings based on
 the parameters defined in the configuration file.
 
-Author: Manus
+Author: Thinh Nguyen Van
 Date: April 14, 2025
 """
 

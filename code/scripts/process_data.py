@@ -4,7 +4,7 @@ Data processor for Indeed job listings
 This script cleans and processes the raw job data collected from Indeed,
 extracting relevant features and preparing it for analysis.
 
-Author: Manus
+Author: Thinh Nguyen Van
 Date: April 14, 2025
 """
 

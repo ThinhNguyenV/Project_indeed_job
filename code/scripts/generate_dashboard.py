@@ -4,7 +4,7 @@ Dashboard generator for Indeed job analysis
 This script creates an interactive dashboard to visualize the insights
 from the Indeed job data analysis.
 
-Author: Manus
+Author: Thinh Nguyen Van
 Date: April 14, 2025
 """
 
